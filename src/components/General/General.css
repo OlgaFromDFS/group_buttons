@@ -1,0 +1,13 @@
+.General {
+  margin: 20px;
+  padding: 20px;
+
+  display: inline-flex;
+
+  border: 3px dashed #7b61ff;
+  border-radius: 10px;
+}
+
+.General-Button {
+  margin: 10px;
+}
