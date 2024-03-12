@@ -1,0 +1,9 @@
+.GroupButtons {
+  width: 250px;
+
+  padding: 30px;
+}
+
+.GroupButtons_theme_dark {
+  background-color: #000;
+}
